@@ -1,6 +1,6 @@
 **Objective**:
 
-The objective of the project aims to assemble the best t20 team based on players from all over the world
+The objective of the project is to assemble the best t20 team based on players from all over the world
 
 1. The team composition should be based on 2022 world cup performance.
 2. The data should be taken from the cricinfo.com website. 
