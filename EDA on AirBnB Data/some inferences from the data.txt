@@ -1,0 +1,19 @@
+from the data
+- reviews does not have a bearing on the max room rent
+- all of the rooms are closely situated
+- the mean price is 152 USD and 75% of the data lies within 175 USD
+- the 75% of the bookins were for 5 days or less than this and maximum is 1250 days (data may not be correct)
+- the wide range between the minimum and maximum prices, as well as the relatively large standard deviation, suggest that prices vary significantly in the dataset.
+- reviews per month seems to be same in all months, looks like reviews does not have much influence.
+- looks like all the rooms are spread in and around new york 
+- comparison between top performing and worst performing host
+    the availability of the rooms is almost four times the worst performing host and the reviews is also 10 times than the worst perforing host
+    the number of reviews is much higher as expected, since worst performing host does not have any bookings
+- Factors contributing to the success - does not have much data to decide - Also no information is there to decide what is 'success'
+
+- Entire home/apt, Private room and Shared rooms are the three types of rooms provided.
+- 'Entire home/apt' fetches more revenues (by more than 3 times) than the next type of rooms.
+- Majority of the room bookings is for one night only	- majority of the bookings are within 30 days
+- The number of rooms are similar for these two types - Entire home/apt, Private room. It is very less for the room type 'Shared rooms'.
+- Maximum number of rooms booked have a rate within USD 0 - 200.
+
